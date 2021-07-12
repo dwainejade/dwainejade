@@ -13,6 +13,6 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 - ⚡ Fun fact: ... -->
 
 ## Skills:
-Frontend: React, Redux, Javascript, HTML, CSS/SaSS, Jest
-Backend: Node.js, Express, Python, SQL
+- Frontend: React, Redux, Javascript, HTML, CSS/SaSS, Jest
+- Backend: Node.js, Express, Python, SQL
 
