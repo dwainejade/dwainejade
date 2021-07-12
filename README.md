@@ -4,7 +4,7 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 
 
 - 🔭 I’m currently working on ... Story Squad App
-- 🌱 I’m currently learning ... Angular
+- 🌱 I’m currently learning ... <a href='#'>Angular</a>
 - 👯 I’m looking to collaborate on ... Angular or React
 - 🤔 My plan for this year is ... Build more personal projects
 - 💬 Ask me about ... Frontend design
@@ -12,7 +12,7 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 <!-- - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... -->
 
-# Languages, Softwares, and Frameworks:
-Frontend: React, Redux, Javascript, HTML, CSS, Styled Components, Reactstrap, Netlify, Vercel
-Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
-Softwares: DB Designer, Whimsical, Markdown, Salesforce
+## Skills:
+Frontend: React, Redux, Javascript, HTML, CSS/SaSS, Jest
+Backend: Node.js, Express, Python, SQL
+
