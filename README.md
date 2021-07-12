@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Hi, my name is <em>Dwaine Matthew</em> and I'm a Web Designer. My passion is in frontend development and currently engoulfed in react.
+Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in frontend development and currently engoulfed in react.
 
 
 - 🔭 I’m currently working on ... Story Squad App
