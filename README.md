@@ -12,3 +12,7 @@ Hi, my name is Dwaine Matthew and I'm a Web Designer. My passion is in frontend 
 <!-- - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... -->
 
+# Languages, Softwares, and Frameworks:
+Frontend: React, Redux, Javascript, HTML, CSS, Styled Components, Reactstrap, Netlify, Vercel
+Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
+Softwares: DB Designer, Whimsical, Markdown, Salesforce
