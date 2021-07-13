@@ -8,7 +8,7 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 - 🤔 My plan for this year is ... Build more personal projects
 - 💬 Ask me about ... Frontend design
 - 😄 Pronouns: ... He/Him
-- <!-- - 👯 I’m looking to collaborate on ... Angular or React -->
+<!-- - 👯 I’m looking to collaborate on ... Angular or React -->
 <!-- - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... -->
 
