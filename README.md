@@ -13,7 +13,7 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 - ⚡ Fun fact: ... -->
 
 ## Tech stack
-- <b>Front-end:</b> HTML, CSS/SASS/LESS, Javscript, TypeScript, React.js, Redux/Jotai, Next.js, Socket.io, react-testing-library
-- <b>Back-end:</b> Node.js, Express.js, SQL, Postgres, Knex, MongoDB, Jest, PHP, Socket.io
-- <b>Misc:</b> Git, Github, Heroku, Trello, Slack, Figma, DBDesigner/dbdiagram.io
+- <b>Frontend:</b> Javscript, React.js, Redux, HTML, CSS/SaSS/LESS
+- <b>Backend:</b> Node.js, Express.js, SQL, PostgreSQL, Knex, Jest
+- <b>Misc:</b> Git, Github, Heroku, Trello, Slack, Figma, DBDesigner, Cypress
 
