@@ -17,3 +17,4 @@ Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in fr
 - <b>Backend:</b> Node.js, Express.js, SQL, PostgreSQL, Knex, Jest
 - <b>Misc:</b> Git, Github, Heroku, Trello, Slack, Figma, DBDesigner, Cypress
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwainejade)](https://github.com/anuraghazra/github-readme-stats)
