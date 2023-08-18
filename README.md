@@ -1,16 +1,21 @@
-### Hello 👋
+👋 Hi there! I’m a passionate frontend developer specializing in React. Though I consider myself a junior developer, I’m on a continuous journey to strengthen my software engineering skills. My focus lies in building clean, efficient, and user-friendly interfaces.
 
-Hi, my name is <b>Dwaine Matthew</b> and I'm a Web Designer. My passion is in frontend development and currently engoulfed in react.
+🔧 Technologies I work with:
 
+	•	React
+	•	JavaScript
+	•	HTML/CSS
+	•	Webpack, Redux, etc.
 
-- 🔭 I’m currently working on ... <a href='https://github.com/dwainejade/island-iv'>Island-IV</a>
-- 🌱 I’m currently learning ... Gatsby
-- 🤔 My plan for this year is ... Build more personal projects
-- 💬 Ask me about ... React
-- 😄 Pronouns: ... He/Him
-<!-- - 👯 I’m looking to collaborate on ... Angular or React -->
-<!-- - 📫 How to reach me: ... 
-- ⚡ Fun fact: ... -->
+🌱 Currently learning:
+
+	•	Advanced React patterns
+	•	Testing frameworks
+	•	Backend development
+
+📫 Feel free to reach out to me for collaboration, questions, or just to say hi!
+
+💼 Open to opportunities and love taking on new challenges.
 
 ## Tech stack
 - <b>Frontend:</b> Javscript, React.js, Redux, HTML, CSS/SaSS/LESS
