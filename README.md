@@ -16,16 +16,15 @@ I'm a creative Frontend Developer who loves crafting immersive digital experienc
 - **Backend:** Node.js, Express, SQL
 
 ## 🚀 Featured Projects
-- **[City Builder](link)** - A procedural city simulation with real-time environmental impacts
-- **[Solar System](link)** - Scientifically accurate planetary simulation using Three.js
-- **[Algebra Solver](link)** - Interactive math learning platform with custom UI/UX design
+- **[City Builder]([Demo](https://devinteractives.strongmind.com/city-builder-interactive/))** - A procedural city simulation with real-time environmental impacts
+- **[Solar System]([Demo](https://devinteractives.strongmind.com/solar-system-interactive/main/))** - Scientifically accurate planetary simulation using Three.js
+- **[Algebra Solver]([Demo](https://devinteractives.strongmind.com/algebra-interactive/public/))** - Interactive math learning platform with custom UI/UX design
 
 ## 📈 GitHub Stats
 [![Dwaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwainejade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Let's Connect!
 - [LinkedIn](your-linkedin-link)
-- [Portfolio](your-portfolio-link)
 - [Email](mailto:dwainem.gnd@gmail.com)
 
 Always excited to collaborate on creative projects or chat about web development! Feel free to reach out if you want to build something amazing together.
