@@ -1,25 +1,31 @@
-👋 Hi there! I’m a passionate frontend developer specializing in React. Though I consider myself a junior developer, I’m on a continuous journey to strengthen my software engineering skills. My focus lies in building clean, efficient, and user-friendly interfaces.
+# 👋 Hey, I'm Dwaine!
 
-🔧 Technologies I work with:
+I'm a creative Frontend Developer who loves crafting immersive digital experiences. My passion lies in bringing ideas to life through interactive 3D animations and user-friendly interfaces that make people go "wow!"
 
-	•	React
-	•	JavaScript
-	•	HTML/CSS
-	•	Webpack, Redux, etc.
+## 🎨 What I Create
+- Interactive 3D web experiences with Three.js and React Three Fiber
+- Responsive and intuitive React applications
+- Procedurally generated environments and simulations
+- Clean, efficient UI components that scale
 
-🌱 Currently learning:
+## 🛠️ Tech Stack
+- **Core:** JavaScript, React, Three.js, HTML5, CSS/LESS
+- **State Management:** Zustand, Redux
+- **Build Tools:** Vite, Webpack
+- **Design:** Figma, TailwindCSS
+- **Backend:** Node.js, Express, SQL
 
-	•	Advanced React patterns
-	•	Testing frameworks
-	•	Backend development
+## 🚀 Featured Projects
+- **[City Builder](link)** - A procedural city simulation with real-time environmental impacts
+- **[Solar System](link)** - Scientifically accurate planetary simulation using Three.js
+- **[Algebra Solver](link)** - Interactive math learning platform with custom UI/UX design
 
-📫 Feel free to reach out to me for collaboration, questions, or just to say hi!
+## 📈 GitHub Stats
+[![Dwaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwainejade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-💼 Open to opportunities and love taking on new challenges.
+## 🤝 Let's Connect!
+- [LinkedIn](your-linkedin-link)
+- [Portfolio](your-portfolio-link)
+- [Email](mailto:dwainem.gnd@gmail.com)
 
-## Tech stack
-- <b>Frontend:</b> Javscript, React.js, Redux, HTML, CSS/SaSS/LESS
-- <b>Backend:</b> Node.js, Express.js, SQL, PostgreSQL, Knex, Jest
-- <b>Misc:</b> Git, Github, Heroku, Trello, Slack, Figma, DBDesigner, Cypress
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwainejade)](https://github.com/anuraghazra/github-readme-stats)
+Always excited to collaborate on creative projects or chat about web development! Feel free to reach out if you want to build something amazing together.
