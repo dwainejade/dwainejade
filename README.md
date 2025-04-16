@@ -16,7 +16,7 @@ I'm a creative Frontend Developer who loves crafting immersive digital experienc
 - **Backend:** Node.js, Express, SQL
 
 ## 🚀 Featured Projects
-- **[City Builder](https://devinteractives.strongmind.com/city-builder-interactive/)** - An immersive city simulation with real-time environmental impacts and procedural terrain generation using React Three Fiber
+- **[MetroTopia](https://devinteractives.strongmind.com/city-builder-interactive/)** - An immersive city simulation with real-time environmental impacts and procedural terrain generation using React Three Fiber
 - **[Solar System](https://devinteractives.strongmind.com/solar-system-interactive/main/)** - Scientifically accurate planetary simulation featuring Kepler orbits and advanced rendering with Three.js
 - **[Algebra Solver](https://devinteractives.strongmind.com/algebra-interactive/public/)** - Interactive math platform with custom-designed UI/UX and step-by-step visualization
 
